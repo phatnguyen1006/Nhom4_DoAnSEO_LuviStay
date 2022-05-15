@@ -10,9 +10,7 @@
 - 19521641 - Võ Sỹ Huy
 - 19521709 - Nguyễn Ngọc Khôi
 
-## Website:
-### LuviStay: [luvistay.com](https://luvistay.com)
+## Website: [luvistay.com](https://luvistay.com)
 
-## Source Code:
-### Google Drive: [public_html](https://drive.google.com/file/d/1-r0NK1U4SvJ4LO3DCBsKZpv01YklS5O2/view?usp=sharing)
+## Source Code: [public_html](https://drive.google.com/file/d/1-r0NK1U4SvJ4LO3DCBsKZpv01YklS5O2/view?usp=sharing)
 
